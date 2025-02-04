@@ -1,10 +1,10 @@
 <div align="center">
-  <img height="320" src="https://raw.githubusercontent.com/MehediBytes/MehediBytes/refs/heads/main/mehedi_github_b.png"  />
+  <img height="400" src="https://raw.githubusercontent.com/MehediBytes/MehediBytes/refs/heads/main/mehedi_github_b.png"  />
 </div>
 
 ###
 
-<h1 align="left">Hi! I’m Mehedi Hasan</h1>
+<h1 align="left">Hi! I’m Md. Mehedi Hasan</h1>
 
 ###
 
@@ -82,6 +82,10 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
 </div>
+
+###
+
+<h2 align="center">My Stats</h2>
 
 ###
 
