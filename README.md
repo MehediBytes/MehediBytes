@@ -4,11 +4,11 @@
 
 ###
 
-<h1 align="left">Hi! I’m Md. Mehedi Hasan</h1>
+<h3 align="left">Hi! I’m Md. Mehedi Hasan</h3>
 
 ###
 
-<h3 align="left">Web Developer</h3>
+<h4 align="left">Web Developer</h4>
 
 ###
 
